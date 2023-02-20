@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgao23 JavaPythonBunny.
-- 👀 I’m interested in 💻software development, ⛷skiing, 🚵🏻‍♀️mountain-biking, 📷traveling, 🎞movies, and 🐰pets.
+- 👀 I’m interested in 💻software development, ML AI, and growing versatile programming skill sets.
 - 🌱 I’m currently learning a lot while working as a SDE.
 - 💞️ I’m looking to collaborate on both front-end and back-end development.
 
